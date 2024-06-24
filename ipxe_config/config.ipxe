@@ -27,7 +27,7 @@ ifconf --timeout 8000 || goto retry
 sleep 1
 
 #chain http://supweb1.${domain}:8080/boot/r8.ipxe
-chain https://github.com/amidevous/iPXE-WDS-EFI-Boot-Menu/raw/main/REMINST/Boot/iPXE/boot.ipxe
+chain http://62.210.202.52/boot.ipxe
 
 sleep 1
 
