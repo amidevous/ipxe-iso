@@ -37,3 +37,5 @@ jobs:
         with:
           name: snponly.efi
           path: ${{ github.workspace }}/ipxe/src/bin-x86_64-efi/snponly.efi
+
+
