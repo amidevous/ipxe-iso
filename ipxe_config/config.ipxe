@@ -1,4 +1,5 @@
 #!ipxe
+dhcp
 
 :menu
 
